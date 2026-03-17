@@ -5,7 +5,7 @@ This project implements a Machine Learning classification model using a Random F
 ML-Customer-Classification/
 │
 ├── data/
-│   ├── raw/                  # Original dataset
+│   ├── raw/                  # downloaded from kaggle dataset
 │   └── processed/            # Cleaned dataset
 │
 ├── notebooks/
